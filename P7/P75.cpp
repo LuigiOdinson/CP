@@ -9,13 +9,13 @@ main() {
 	cout<<"Enter a number bigger than one: ";
 	cin>>n;
 	for(i=1;i<n;i++){
-		int n=0;
+		int c=0;
 		for(j=1;j<=i;j++){
 			if(i%j==0){
-				n++;
+				c++;
 			}	
 		}
-		if(n==2){
+		if(c==2){
 			s+=i;
 		}
 	}
