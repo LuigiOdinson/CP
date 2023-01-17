@@ -1,5 +1,4 @@
-#include <iostream>   
-#include <math.h>                               
+#include <iostream>                                  
 using namespace std;
 
 //P75 Romina Minaji
