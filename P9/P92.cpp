@@ -2,7 +2,7 @@
 using namespace std;
 
 main() {
-	int nums[9];
+	int nums[10];
 	int i,min1,min2;
 	cout<<"Enter 10 numbers for the array: "<<endl;
 	for(i=0;i<10;i++){
