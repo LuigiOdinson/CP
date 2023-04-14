@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//Romina Mianji 
+// Romina Mianji 
 
 int main() {
 	float x,y;
